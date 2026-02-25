@@ -79,7 +79,7 @@ highlight_name: true
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
-Hello, my name is Yang Zhou. I am a third-year undergraduate at Wuhan University, majoring in Computational Mathematics.
+Hello, my name is Zhou Yang. I am a third-year undergraduate at Wuhan University, majoring in Computational Mathematics.
 
 You can download my [English CV](/uploads/personal_CV_en.pdf) and [Chinese CV](/uploads/personal_CV_zh.pdf) here.
 
