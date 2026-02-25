@@ -1,0 +1,11 @@
+/* 让头像下方名字 = 导航栏品牌标题的粗细 */
+.portrait-title h2,
+.portrait-title h1 {
+  font-weight: inherit;
+}
+
+/* 明确把它设置成 navbar-brand 的 font-weight */
+.portrait-title h2,
+.portrait-title h1 {
+  font-weight: var(--bs-font-weight-bold);
+}
